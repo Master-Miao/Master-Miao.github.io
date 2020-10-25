@@ -106,13 +106,13 @@ if (autoChangeMode === '1') {
   function initValine () {
     window.valine = new Valine({
       el: '#vcomment',
-      appId: '',
-      appKey: '',
+      appId: 'cfvkalhw6QYB7iCbGzHjBEHG-gzGzoHsz',
+      appKey: 'DE25OQRgPRz1APnDX0vLVaw5',
       placeholder: 'Please leave your footprints',
       avatar: 'monsterid',
       meta: 'nick,mail,link'.split(','),
       pageSize: '10',
-      lang: 'en',
+      lang: 'zh-cn',
       recordIP: false,
       serverURLs: '',
       emojiCDN: '',
@@ -124,7 +124,7 @@ if (autoChangeMode === '1') {
   }
 
   if (typeof Valine === 'function') initValine() 
-  else $.getScript('https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js', initValine)
+  else $.getScript('https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js', initValine)
 }
 
 if ('Valine' === 'Valine' || !false) {
