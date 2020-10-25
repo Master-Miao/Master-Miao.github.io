@@ -1538,6 +1538,7 @@
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Deployment 注释</span><br><span class="line">## Docs: https:&#x2F;&#x2F;hexo.io&#x2F;docs&#x2F;deployment.html</span><br><span class="line">deploy:</span><br><span class="line">  # 类型</span><br><span class="line">  type: git</span><br><span class="line">  # 仓库</span><br><span class="line">  repo: git@github.com:xuezhisd&#x2F;xuezhisd.github.io.git</span><br><span class="line">  # 分支</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
 
 <p><a href="https://demo.jerryc.me/">Butterfly主题修改</a></p>
+<p><a href="https://blog.csdn.net/Lott0419/article/details/106688492?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param">目前最全的butterfly设置</a></p>
 ]]></content>
       <categories>
         <category>充电</category>

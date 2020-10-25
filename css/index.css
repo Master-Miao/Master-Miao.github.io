@@ -178,6 +178,16 @@ template {
 [hidden] {
   display: none
 }
+
+/*移动端优化：去除归档、标签、最新文章、公告、、只保留网站统计*/
+@media screen and (max-width: 800px) {
+    #aside_content
+    div:not(:last-child) {
+        display: none;
+        font-size: 13px;
+    }
+}
+
 .limit-one-line,
 #aside_content .card-info .card-info-data > .card-info-data-item a .headline,
 #aside_content .card-archives ul.card-archive-list > .card-archive-list-item a span,
@@ -239,7 +249,7 @@ hr:before,
   --btn-color: #fff;
   --btn-bg: #49b1f5;
   --text-bg-hover: #49b1f5;
-  --light-grey: #eee;
+  --light-grey: #fafad2;
   --white: #fff;
   --text-highlight-color: #1f2d3d;
   --blockquote-color: #6a737d;
@@ -2852,6 +2862,9 @@ _:future,
   text-shadow: 0.05rem 0.05rem 0.1rem rgba(0,0,0,0.3);
   font-size: 0.7rem;
   cursor: pointer;
+}
+#page-header a {
+  color: #f0ffff;
 }
 #mobile-sidebar #menu_mask {
   position: fixed;
