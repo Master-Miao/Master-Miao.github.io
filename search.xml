@@ -1161,6 +1161,22 @@
       </tags>
   </entry>
   <entry>
+    <title>女生呵护指南</title>
+    <url>/post/658c6c14.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这本书的发现纯属意外，然后纯粹当做科普读物来看了。。。既然有这本书，我在想是不是有对应的男生指南，网上搜罗一圈下来并没发现。</p>
+<a id="more"></a>
+
+<p>11/234</p>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>书籍</category>
+      </categories>
+      <tags>
+        <tag>ing</tag>
+        <tag>科普</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>多群组分析</title>
     <url>/post/143a08c2.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从多群组分析的基本理念而言，多群组的SEM分析检验在于评估一个适配于某一样本群体的模型，是否也适配于其他不同样本的群体，即评估研究者所提的理论模型在不同样本群体间是否相等或参数具有不变性。</p>
@@ -1187,22 +1203,6 @@
       </categories>
       <tags>
         <tag>多群组分析</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>女生呵护指南</title>
-    <url>/post/658c6c14.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这本书的发现纯属意外，然后纯粹当做科普读物来看了。。。既然有这本书，我在想是不是有对应的男生指南，网上搜罗一圈下来并没发现。</p>
-<a id="more"></a>
-
-<p>11/234</p>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>书籍</category>
-      </categories>
-      <tags>
-        <tag>ing</tag>
-        <tag>科普</tag>
       </tags>
   </entry>
   <entry>
@@ -1370,6 +1370,87 @@
       </tags>
   </entry>
   <entry>
+    <title>文章发布与同步</title>
+    <url>/post/7a850dae.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>主要把刚开始写博客需要用的一些简单代码放在这里，方便使用，我用的是Typora，界面简洁，很好操作。（备注：下图。今天本科生开学典礼，疫情原因，各学院分别进行，没有像往年一样统一进行）</p>
+ <div align="center"><img src= "/img/loading.gif" data-lazy-src="/post/7a850dae/001.jpg" class title="加载中&gt;&gt;&gt;请刷新">
+      </div>
+
+
+  <a id="more"></a>
+
+<h1 id="新建文档"><a href="#新建文档" class="headerlink" title="新建文档"></a>新建文档</h1><p>创建新文章</p>
+<p><code>hexo new 文章名</code></p>
+<h1 id="标签设置"><a href="#标签设置" class="headerlink" title="标签设置"></a>标签设置</h1><p><code>title    【必需】文章标题</code><br><code>date    【必需】文章创建日期</code><br><code>updated    【可选】文章更新日期</code><br><code>tags    【可选】文章标籤</code><br><code>categories    【可选】文章分类</code><br><code>keywords    【可选】文章关键字</code><br><code>description    【可选】文章描述</code><br><code>top_img    【可选】文章顶部图片</code><br><code>cover    【可选】文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false/图片地址/留空)</code><br><code>comments    【可选】显示文章评论模块(默认 true)</code><br><code>toc    【可选】显示文章TOC(默认为设置中toc的enable配置)</code><br><code>toc_number    【可选】显示toc_number(默认为设置中toc的number配置)</code><br><code>auto_open    【可选】是否自动打开TOC(默认为设置中toc的auto_open配置)</code><br><code>copyright    【可选】显示文章版权模块(默认为设置中post_copyright的enable配置)</code><br><code>copyright_author    【可选】文章版权模块的文章作者</code><br><code>copyright_author_href    【可选】文章版权模块的文章作者链接</code><br><code>copyright_url    【可选】文章版权模块的文章连结链接</code><br><code>copyright_info    【可选】文章版权模块的版权声明文字</code><br><code>mathjax    【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)</code><br><code>katex    【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)</code><br><code>aplayer    【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置</code><br><code>highlight_shrink    【可选】配置代码框是否展开(true/false)(默认为设置中highlight_shrink的配置)</code></p>
+<h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><p>文字居中 </p>
+<p> <code>&lt;div align = &quot;center&quot;&gt;内容&lt;/div&gt;</code></p>
+<p>字体设置</p>
+<p><code>&lt;span style=&#39;color:文字颜色;background:背景颜色;font-size:文字大小;font-family:字体;&#39;&gt;文字&lt;/span&gt;</code></p>
+<hr>
+<p> 阅读更多</p>
+<p>​     <code>&lt;!--more--&gt;</code></p>
+<hr>
+<p>插入图片，要在<code>_posts</code>文件夹内生成相应文章名的文件夹，配置过可自动生成，把图片放里面就行，可以吧图片代码放在居中代码里。</p>
+<p><code>&#123;% asset_img 图片名称.jpg 加载不出来显示的文字 %&#125;</code></p>
+<hr>
+<p>右对齐</p>
+<p> <code>&lt;p align=&quot;right&quot;&gt;内容&lt;/p&gt;</code>           </p>
+<hr>
+<p>思维脑图   </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% pullquote mindmap mindmap-md %&#125;</span><br><span class="line">- demo</span><br><span class="line">  - 这是一个分支</span><br><span class="line">  - 这是另一个分支</span><br><span class="line">    - 分支的分支哦</span><br><span class="line">    - 分支的另一个分支哦</span><br><span class="line">  - 没有分支的分支</span><br><span class="line">  - 没有分支的另一个分支</span><br><span class="line">&#123;% endpullquote %&#125;</span><br></pre></td></tr></table></figure>
+
+<h1 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h1><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">master -负责展示静态网页</span><br><span class="line">hexo -备份本地hexo文件</span><br></pre></td></tr></table></figure>
+
+<p>以下都在hexo分支进行</p>
+<hr>
+<p>hexo分支更新（只是把最新的部署文件上传到了GitHub中，但是并没有对其渲染）</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add . <span class="comment">#添加所有文件到暂存区</span></span><br><span class="line">git commit -m 新增博客文章  <span class="comment">#提交</span></span><br><span class="line">git push origin hexo <span class="comment">#推送hexo分支到Github</span></span><br></pre></td></tr></table></figure>
+
+<hr>
+<p>master分支更新（渲染）</p>
+<p><code>hexo clean</code></p>
+<p><code>hexo g -d</code>     g和d可同时进程</p>
+<hr>
+<h1 id="更换电脑脑后的同步"><a href="#更换电脑脑后的同步" class="headerlink" title="更换电脑脑后的同步"></a>更换电脑脑后的同步</h1><p>  更换的电脑环境（<code>git</code>、<code>node.js</code>、<code>Hexo</code>）配置好后，把hexo分支<code>git clone</code>下来，</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone -b hexo git@github.com:yourname&#x2F;yourname.github.io.git  &#x2F;&#x2F;将Github中hexo分支clone到本地</span><br><span class="line">cd  yourname.github.io  &#x2F;&#x2F;切换到刚刚clone的文件夹内</span><br><span class="line">npm install    &#x2F;&#x2F;注意，这里一定要切换到刚刚clone的文件夹内执行，安装必要的所需组件，不用再init</span><br><span class="line">git pull origin hexo  &#x2F;&#x2F;先pull完成本地与远端的融合，即同步更新</span><br><span class="line">hexo new post &quot;new blog name&quot;   &#x2F;&#x2F;新建一个.md文件，并编辑完成自己的博客内容</span><br><span class="line">git add source  &#x2F;&#x2F;经测试每次只要更新source中的文件到Github中即可，因为只是新建了一篇新博客</span><br><span class="line">git commit -m &quot;新文章名&quot;</span><br><span class="line">git push origin hexo  &#x2F;&#x2F;更新分支</span><br><span class="line">hexo d -g   &#x2F;&#x2F;push更新完分支之后将自己写的博客对接到自己搭的博客网站上，同时同步了Github中的master</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://www.zhyong.cn/posts/8410/">点击出现桃心效果</a></p>
+<p><a href="https://www.zhyong.cn/posts/8410/">设置博文内链接为蓝色</a></p>
+<p><a href="https://blog.csdn.net/qq_32767041/article/details/103283522">Hexo 搭建个人博客（五）Hexo 资源文件夹</a> 图片引用</p>
+<p><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html">配置SSH key</a></p>
+<p><a href="https://blog.csdn.net/Rainy_X/article/details/79829181">换了电脑使用Hexo更新博客</a></p>
+<p><a href="https://blog.csdn.net/xuezhisdc/article/details/53130328">hexo安装教程</a></p>
+<p><a href="https://blog.csdn.net/miss_bear/article/details/106164293">域名</a></p>
+<p><a href="https://www.jianshu.com/p/f72aaad7b852">插入图片</a></p>
+<hr>
+<p>安装hexo,<code>npm install hexo-cli g</code></p>
+<p>在E盘打开Git Bash here,初始化博客文件夹<code>hexo init blog</code></p>
+<p>切换到博客路径，<code>cd blog</code></p>
+<p>安装hexo的扩展插件，<code>npm install</code></p>
+<p>安装其他插件：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-server --save</span><br><span class="line">npm install hexo-admin --save</span><br><span class="line">npm install hexo-generator-archive --save</span><br><span class="line">npm install hexo-generator-feed --save</span><br><span class="line">npm install hexo-generator-search --save</span><br><span class="line">npm install hexo-generator-tag --save</span><br><span class="line">npm install hexo-deployer-git --save</span><br><span class="line">npm install hexo-generator-sitemap --save</span><br></pre></td></tr></table></figure>
+
+<p>更换butterfly主题后报错：extends includes/layout.pug block content #recent-posts.recent-posts include includes/recent-posts.pug include includes/pagination.pug<br>解决办法：在博客目录下打开git bash here，输入命令：<code>npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive</code></p>
+<p><a href="https://blog.csdn.net/qq_40428678/article/details/84074207">fatal: remote origin already exists. (远程来源已经存在 解决办法)</a></p>
+<p>将hexo博客部署到github上</p>
+<ul>
+<li>修改配置文件<strong>blog/_config.yml</strong>，修改deploy项的内容，如下所示：</li>
+</ul>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Deployment 注释</span><br><span class="line">## Docs: https:&#x2F;&#x2F;hexo.io&#x2F;docs&#x2F;deployment.html</span><br><span class="line">deploy:</span><br><span class="line">  # 类型</span><br><span class="line">  type: git</span><br><span class="line">  # 仓库</span><br><span class="line">  repo: git@github.com:xuezhisd&#x2F;xuezhisd.github.io.git</span><br><span class="line">  # 分支</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
+
+<p><a href="https://demo.jerryc.me/">Butterfly主题修改</a></p>
+<p><a href="https://blog.csdn.net/Lott0419/article/details/106688492?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param">目前最全的butterfly设置</a></p>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>充电</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Github</tag>
+        <tag>文章发布</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>The Joy of Search</title>
     <url>/post/40c6a1e.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在这个时代，我们每个人都要学会搜索！</p>
@@ -1470,87 +1551,6 @@
       <tags>
         <tag>ing</tag>
         <tag>搜索</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>文章发布与同步</title>
-    <url>/post/7a850dae.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>主要把刚开始写博客需要用的一些简单代码放在这里，方便使用，我用的是Typora，界面简洁，很好操作。（备注：下图。今天本科生开学典礼，疫情原因，各学院分别进行，没有像往年一样统一进行）</p>
- <div align="center"><img src= "/img/loading.gif" data-lazy-src="/post/7a850dae/001.jpg" class title="加载中&gt;&gt;&gt;请刷新">
-      </div>
-
-
-  <a id="more"></a>
-
-<h1 id="新建文档"><a href="#新建文档" class="headerlink" title="新建文档"></a>新建文档</h1><p>创建新文章</p>
-<p><code>hexo new 文章名</code></p>
-<h1 id="标签设置"><a href="#标签设置" class="headerlink" title="标签设置"></a>标签设置</h1><p><code>title    【必需】文章标题</code><br><code>date    【必需】文章创建日期</code><br><code>updated    【可选】文章更新日期</code><br><code>tags    【可选】文章标籤</code><br><code>categories    【可选】文章分类</code><br><code>keywords    【可选】文章关键字</code><br><code>description    【可选】文章描述</code><br><code>top_img    【可选】文章顶部图片</code><br><code>cover    【可选】文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false/图片地址/留空)</code><br><code>comments    【可选】显示文章评论模块(默认 true)</code><br><code>toc    【可选】显示文章TOC(默认为设置中toc的enable配置)</code><br><code>toc_number    【可选】显示toc_number(默认为设置中toc的number配置)</code><br><code>auto_open    【可选】是否自动打开TOC(默认为设置中toc的auto_open配置)</code><br><code>copyright    【可选】显示文章版权模块(默认为设置中post_copyright的enable配置)</code><br><code>copyright_author    【可选】文章版权模块的文章作者</code><br><code>copyright_author_href    【可选】文章版权模块的文章作者链接</code><br><code>copyright_url    【可选】文章版权模块的文章连结链接</code><br><code>copyright_info    【可选】文章版权模块的版权声明文字</code><br><code>mathjax    【可选】显示mathjax(当设置mathjax的per_page: false时，才需要配置，默认 false)</code><br><code>katex    【可选】显示katex(当设置katex的per_page: false时，才需要配置，默认 false)</code><br><code>aplayer    【可选】在需要的页面加载aplayer的js和css,请参考文章下面的音乐 配置</code><br><code>highlight_shrink    【可选】配置代码框是否展开(true/false)(默认为设置中highlight_shrink的配置)</code></p>
-<h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><p>文字居中 </p>
-<p> <code>&lt;div align = &quot;center&quot;&gt;内容&lt;/div&gt;</code></p>
-<p>字体设置</p>
-<p><code>&lt;span style=&#39;color:文字颜色;background:背景颜色;font-size:文字大小;font-family:字体;&#39;&gt;文字&lt;/span&gt;</code></p>
-<hr>
-<p> 阅读更多</p>
-<p>​     <code>&lt;!--more--&gt;</code></p>
-<hr>
-<p>插入图片，要在<code>_posts</code>文件夹内生成相应文章名的文件夹，配置过可自动生成，把图片放里面就行，可以吧图片代码放在居中代码里。</p>
-<p><code>&#123;% asset_img 图片名称.jpg 加载不出来显示的文字 %&#125;</code></p>
-<hr>
-<p>右对齐</p>
-<p> <code>&lt;p align=&quot;right&quot;&gt;内容&lt;/p&gt;</code>           </p>
-<hr>
-<p>思维脑图   </p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% pullquote mindmap mindmap-md %&#125;</span><br><span class="line">- demo</span><br><span class="line">  - 这是一个分支</span><br><span class="line">  - 这是另一个分支</span><br><span class="line">    - 分支的分支哦</span><br><span class="line">    - 分支的另一个分支哦</span><br><span class="line">  - 没有分支的分支</span><br><span class="line">  - 没有分支的另一个分支</span><br><span class="line">&#123;% endpullquote %&#125;</span><br></pre></td></tr></table></figure>
-
-<h1 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h1><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">master -负责展示静态网页</span><br><span class="line">hexo -备份本地hexo文件</span><br></pre></td></tr></table></figure>
-
-<p>以下都在hexo分支进行</p>
-<hr>
-<p>hexo分支更新（只是把最新的部署文件上传到了GitHub中，但是并没有对其渲染）</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add . <span class="comment">#添加所有文件到暂存区</span></span><br><span class="line">git commit -m 新增博客文章  <span class="comment">#提交</span></span><br><span class="line">git push origin hexo <span class="comment">#推送hexo分支到Github</span></span><br></pre></td></tr></table></figure>
-
-<hr>
-<p>master分支更新（渲染）</p>
-<p><code>hexo clean</code></p>
-<p><code>hexo g -d</code>     g和d可同时进程</p>
-<hr>
-<h1 id="更换电脑脑后的同步"><a href="#更换电脑脑后的同步" class="headerlink" title="更换电脑脑后的同步"></a>更换电脑脑后的同步</h1><p>  更换的电脑环境（<code>git</code>、<code>node.js</code>、<code>Hexo</code>）配置好后，把hexo分支<code>git clone</code>下来，</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone -b hexo git@github.com:yourname&#x2F;yourname.github.io.git  &#x2F;&#x2F;将Github中hexo分支clone到本地</span><br><span class="line">cd  yourname.github.io  &#x2F;&#x2F;切换到刚刚clone的文件夹内</span><br><span class="line">npm install    &#x2F;&#x2F;注意，这里一定要切换到刚刚clone的文件夹内执行，安装必要的所需组件，不用再init</span><br><span class="line">git pull origin hexo  &#x2F;&#x2F;先pull完成本地与远端的融合，即同步更新</span><br><span class="line">hexo new post &quot;new blog name&quot;   &#x2F;&#x2F;新建一个.md文件，并编辑完成自己的博客内容</span><br><span class="line">git add source  &#x2F;&#x2F;经测试每次只要更新source中的文件到Github中即可，因为只是新建了一篇新博客</span><br><span class="line">git commit -m &quot;新文章名&quot;</span><br><span class="line">git push origin hexo  &#x2F;&#x2F;更新分支</span><br><span class="line">hexo d -g   &#x2F;&#x2F;push更新完分支之后将自己写的博客对接到自己搭的博客网站上，同时同步了Github中的master</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://www.zhyong.cn/posts/8410/">点击出现桃心效果</a></p>
-<p><a href="https://www.zhyong.cn/posts/8410/">设置博文内链接为蓝色</a></p>
-<p><a href="https://blog.csdn.net/qq_32767041/article/details/103283522">Hexo 搭建个人博客（五）Hexo 资源文件夹</a> 图片引用</p>
-<p><a href="https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html">配置SSH key</a></p>
-<p><a href="https://blog.csdn.net/Rainy_X/article/details/79829181">换了电脑使用Hexo更新博客</a></p>
-<p><a href="https://blog.csdn.net/xuezhisdc/article/details/53130328">hexo安装教程</a></p>
-<p><a href="https://blog.csdn.net/miss_bear/article/details/106164293">域名</a></p>
-<p><a href="https://www.jianshu.com/p/f72aaad7b852">插入图片</a></p>
-<hr>
-<p>安装hexo,<code>npm install hexo-cli g</code></p>
-<p>在E盘打开Git Bash here,初始化博客文件夹<code>hexo init blog</code></p>
-<p>切换到博客路径，<code>cd blog</code></p>
-<p>安装hexo的扩展插件，<code>npm install</code></p>
-<p>安装其他插件：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm install hexo-server --save</span><br><span class="line">npm install hexo-admin --save</span><br><span class="line">npm install hexo-generator-archive --save</span><br><span class="line">npm install hexo-generator-feed --save</span><br><span class="line">npm install hexo-generator-search --save</span><br><span class="line">npm install hexo-generator-tag --save</span><br><span class="line">npm install hexo-deployer-git --save</span><br><span class="line">npm install hexo-generator-sitemap --save</span><br></pre></td></tr></table></figure>
-
-<p>更换butterfly主题后报错：extends includes/layout.pug block content #recent-posts.recent-posts include includes/recent-posts.pug include includes/pagination.pug<br>解决办法：在博客目录下打开git bash here，输入命令：<code>npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive</code></p>
-<p><a href="https://blog.csdn.net/qq_40428678/article/details/84074207">fatal: remote origin already exists. (远程来源已经存在 解决办法)</a></p>
-<p>将hexo博客部署到github上</p>
-<ul>
-<li>修改配置文件<strong>blog/_config.yml</strong>，修改deploy项的内容，如下所示：</li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"># Deployment 注释</span><br><span class="line">## Docs: https:&#x2F;&#x2F;hexo.io&#x2F;docs&#x2F;deployment.html</span><br><span class="line">deploy:</span><br><span class="line">  # 类型</span><br><span class="line">  type: git</span><br><span class="line">  # 仓库</span><br><span class="line">  repo: git@github.com:xuezhisd&#x2F;xuezhisd.github.io.git</span><br><span class="line">  # 分支</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
-
-<p><a href="https://demo.jerryc.me/">Butterfly主题修改</a></p>
-<p><a href="https://blog.csdn.net/Lott0419/article/details/106688492?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param">目前最全的butterfly设置</a></p>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>充电</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Github</tag>
-        <tag>文章发布</tag>
       </tags>
   </entry>
   <entry>
