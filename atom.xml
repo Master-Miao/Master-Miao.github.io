@@ -6,7 +6,7 @@
   <link href="http://master-miao.github.io/atom.xml" rel="self"/>
   
   <link href="http://master-miao.github.io/"/>
-  <updated>2020-10-22T13:44:29.059Z</updated>
+  <updated>2020-10-28T04:20:02.941Z</updated>
   <id>http://master-miao.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>gamification-研究备忘</title>
+    <link href="http://master-miao.github.io/post/fdbb3370.html"/>
+    <id>http://master-miao.github.io/post/fdbb3370.html</id>
+    <published>2020-10-28T02:42:55.000Z</published>
+    <updated>2020-10-28T04:20:02.941Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">youxihua</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="b94bef00d0d6f985bc7d256427120cb540263c915fff3ae64807dfb8645a70be">5b3699ef0faffe0de483289635c33ea977234d4220be79fd08492b35167e49b53906baa00f5b0aff3173a6603c4a74fc2cf673f8c486297a23c11efce24abc4ecd82d8fb4065d22c931d3bfa4d9c5f0feec2b8e0184796d86f325d93c79bb538a0bc94f3905d5094a3a27049241111d78e2a6ef39a2e45b897023e3c3452adf548b094b16a4d4206b04670017bf7b5bb4563b5438590791fe2b507aeb03f9aee87bf944ba09c51c7b1fa9cb9ea96350d4f95815ebddaa7fd2e392d81ad4292bf3062b1ebb301b357ecd72bdf19fc9fc18b3b947e28324dc15871629aef00b9caa4c14ee285797df0f1cc6a2f77d4b3ee31d3ef2ebebe85c155109828d6aabc145d44c3d42902043311f160fb0c1f7c17db1d579c370858cd46833206aaa7b0d80ac8480461b011b23f2c4f177d931545eace709e0d8771791e7b6b5ff8058d8bdfbcc5d9a9d34e9786cf2afd6854a8afbf094a0fecfc0bdc0a47fbfcdbeae4016310d95b9b53e942e624140438743c4272e69e42d391dc36629b2d0035ded01f385051ce904bb5879aa46ef7b14dc4ad94f9a7c1e26d3dbdfea6a90727614c28006f94da93f6e777d8c99daaa542036c73e9827ae121f6309769bbf73c86972266b33efb8052876bc6f688fb4c992a8809a260f97a4c955047f3de0f77abe993118756dd1cc532e356816ee826150070f900559831a211df0dbbe4fce2acb6d89e4a55536844c5948d311f5fef112ece8254acc25533946a3d52211ebabc1f757b269c2b4d2c9dcb66da1ea4d55d6d4ac3ecbf64c52b6c2329d0253257ff08deaac52ebfa8a9cca11818d6282dda544cc8d69ee838f87451fcd163a126df3ccc339cc1a8526ef651a52795d4c8c622d8b3750dc6192d95e159ab6c59127c80f3d1b664ac84f376773244145f0ad2a365a23472bb040e14b8a4be80934bd905d8d0445d7bd253cee85a0c4110688dc938448ca6228b5de6e5ba570c891f99a19f0994e9928fc29bcc5b42a71662c794d1ccd5b6917025baeccfa5805351f1cb3974cd32fee97720641c33e53f0e387c11b2866fa0f4cc8cf0f28dc2320ed98079b25a28a560484dd231df6a31bfca76ebfdc157a7d778e359fc220eabc95fdfc5fa6be01b1e97ab50362865c7570acf4bdbd354b63a0c97363ab0005774f8d0c088e1a992ce2372ccba9688c1a531944acda27d3b6a009e3c473aa4817d40e0714e1df06b5f2f63bb937fb341fb58fed001060ed975ce684933a89cd92077998690b16e5698da07eaeff39b93abfc21a05dfe1899a08d889e58015d95ed6e9085226317fb787c1aea9918768ab32c7f8683cca5a75c6f6b69fbe9d86edbaf562df7133b92e7beb651186e714fd1bd976e8a23579cc1db2b043b371ee336c642e5434e177f25498331e87773f096de7cd69638b39cc88e25bf8c7d17740b2a9cffe057062019ae5d9e279b7a5ee0c874b6d868581e0447b862e6c15370e29bb70d03c9c3d2a6892c71a7bcd32a55bd4cef88fe0d1da0177301bb79d10f1b235ae0272b5a5dce6e50734634021c3271e4bcc197bf84d7a4b5b49c8fb835d0017b4d6ae41eb997d92017bc0c8d5465ba598eb7e7fa8647cbb5dfef946a88a4b209e3166fcf700711df18e01945b29c79ebc80ae0c39a83e5d09596c8d61bd7c4320b10e0a331d15386248e2406177be68c6427b87f358d7ec7dfc4c0fbaa31d89fc2758d06b9d816a65e7d2fd556b146cdb7189dd88d7014b2d920e994d47a1c69cedc86bb66645a2176d0e7474166079fbb4956188ade9f89c69cd38aa4ce9323e6b3eefd27a2ad9066017d605d4fb94804dcd13c046d029fdf30a21730579cc1b87bfd75590cd261cc9c3b6f5d0ed51fb3b0df0da83758f7b81ea23790451e774d0a7f4f35f94593c5e641d855134ce844dbbdaf9ba8b390d84fac1367fce400b4393b53cc7600398302581dbdd91e91c1c511a036829fa9e175792c93b44abf60705331d84080a24da59068e332a595b4eb31a4b7d0146d5f1cc8fa61fb528b38df2477fdbcbba1a4ead1455c83fb6cd235a4ccbc01df7df0f23b72656f622a478becf956fbed034cedda66d988e9f8f95b6dd9f269e644f3ae5538c27b4d1d43a8154378a033b61603225bba035838c2e135142f4ff20ecbb80c0eba18604452f7123086418a2ace87e7cd9b590b109ff56e96b14f3f83405c2bd4724dd54b5f39ccfe932a6314b3c52deb6eca8de63671c0f8171b43f94e4d49f3bdbabf105cdd890ccb263e15aa4b72aca39629949737ee843b955be52fca87b94f30df805e6c24a39b93557a95aba0ed5c85575978aaabefe90363f415e4abb12b6f7bc27f86599c57e482487b81b578cfc7444b987f48e0de5039e411d8a2fb4c54d69cd83d3d27ce3d2de1c1ea0eab226e1fb9c273116e7740e8fc57862786ec586c728c3bc4adf95968d89502901d98840a5fa86ad12343a38e3cc8a0cb39157ffff51e63c47ddf0d1fa3e896aa617a80bcff693173ae128a8d5e6195ece5a6fcdcdd0e316e24a9fa40be36c155e45124a2afa898f9c5f528a95d56eef8356efdbb40727aad70dcadd72de7664e0ca3c9cf5b7ff15f0dc1d1f8ecbe047333033a4d4190377bae1467dc6fd3304a09099597089bcf3127441319e43fcc3c55e2822f626c6fab27ff8de2ac05b2f48a8b06fc8ff06a8063511940a08cb7e22250abaf391828a62f1dadfea0c1f8a984b70d97afa9a102d57fbd38a22d5beafd0f3b9c37309fa585a53132d8990db2e983c6fb15da6029461d6f1f1e8e23c8a259a0fa95bd0c92e337cdbbda47e2d7cb8d485ee76f08bbdbf47d8d0c90450fdd7b0163aa71da5c9be1a4407da8d8fd12bd620ac461962c66c21eb7367c313d427a6b6a5c745f5d88627534a2581468ca14de9fa43e4a2b6dcbdf52a31097f6e5840dd0e2ad2e6901883a2dcb292fb23d008b3f45401f9f4b49c5326c57b1ab080cfc010cdfcbdf61930ca71ae11e11aace36855c1ce7d1fa381f5f9100c708d3afddd8a88ee94d80b5f39dfb04f9acbe2d629d501bfebacaf81713998188077f82866652475ca32dd430c86fd9b154d61eac2519503c4096728240d7fc976f1da8cc724bd138c2dacbf5b60e28c47b718dde9b48f16b1fc0221bae695edc45ba2d99e4da6c02261b5f29a8292893c42b8e2c759fa1137ba697bebc9ef6d10bddc9f6cd5a340af7755ee44e2568464eb6fd632859c32bc6463f1d40005fd197da499cc36c62a174fbfbc567f5fcad882f057ee3949c3819579ab924ebdf8b217fbb6f5a76873b5213b1a752c9b8aa5bd0730276d07d63207d4d5cc5df83c6c279669a8ba7579013ea3bf2211d280c3c33e42ef6449959551b38ac098b6c468d0b1ad786412a699f145e2e52f6f600d3a9a59918f86d90543b850818e9bbe846eed8a106bd66a061c089fddfb5240c945baa85c00793d8458fbd3ec016c5d3a6d2504362735e9c30c4cf22d183b9a528c526409a8fa9f1372e7cd55989c7555b000ced245ae93520f9feae24c6b64fbf136b64361ba70af0df41cefa631b1bafeb51e782c22a327f5f8f2f4d35f6774c7df7921eb28435cb3e0e3de6cc39c676ab7f6a8c11e934e264e018ccc2498aec6f3b2a540109cb3c2da8fae761892a740af234725dc42ad27fc1290d3d73282331905d5efe025772b706c2c25f2ff0c1c6409aed57a7765853da27e405c84a2aec026bf1a514907f2f32a0f70aaf0ed5b36d90eb6dc1d19ac4d41894b567d121a45b178edda047eb71472e9e622177faf7e757fa9eaedb6b3d58b7eaea623e8c9d96ab96d807241b8057021215b88ac7c73bf8ffd99a6b725e8c05e5bcbf39c0c1d7f09b3250953470f0f7ac06dabce089065b2e55db33e5a800e5f1a1deaa7f8d3865391244ebc6cabe7a454c16d53b16eba771a486fbee55ab393045f53d79b0d484baaee74c40cf96fb84adaca6c2d345914836bc424dfa8298a54cf3a14fd2e0a2b354f035ab124397b51aa0be01d7970fc6885090036aed3d45fb949debc30e1246f071c6c0320317a1533b431d7994004a0a5a911c1b7a6a88a84faad284e4d5f78d796976cc28381f161a8d08ac4e839bd5ed287ace5279aaf9d5f26c3faa90f392bb177d8e8bc2a1d1ba06f6b076679c20fc895bf3039c41fdcf38d2d8e79dddca9e5ce467ad471872ba17418ac97a77999f13c137b9fa82c9a2d2f913ef81e9729f4b59dd7c16df944a748f4b1befef2f31fced2044b26b28a2c55cb026ae16c321afe0b5766e01afb5a60403b3b44a97771aae2544c4893deb35ea1b1b377d5eedc1e3c8e16e39fab029dba49f847ab0f7524a1d03b8fc420387dcfda15a82f6c8c2d2a8ab4de10ed1d0dfa83c730810bfdf8d496efd9348375a9920169fbbd77b9ab5682dbaace7987a6ca76674b6ad81bd78bb7a7994f707669fcea94b91776b1a3c0f799b03169bebea59b570f74b22924f57fb9b15f9e39244308ff527fb3037c2d4f9566071b515a21235431e2d19cf616e5afe3f001d668324c29fd014fce325acfbb153c3c06c07ba07d70d751e3f0700f6801cd2c5a2e813ee25355abb776332c447090e4820ec019628b905184b7f46ac24add28a0b15ea9924be920dcfff2ab306433422120467525d53ac8488dad467ac97810f264fac36defed092858311d0ba77c024c3f96d0d84d07d4810a8cdbe2261d8cdb7edd5a5b821a9a888ec86e4395371c7a94819cc04ee535e</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+    <category term="？" scheme="http://master-miao.github.io/tags/%EF%BC%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>移动领域的Z世代策略</title>
@@ -445,27 +464,6 @@
     <category term="ing" scheme="http://master-miao.github.io/tags/ing/"/>
     
     <category term="电影" scheme="http://master-miao.github.io/tags/%E7%94%B5%E5%BD%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>喜欢的句子</title>
-    <link href="http://master-miao.github.io/post/5d107345.html"/>
-    <id>http://master-miao.github.io/post/5d107345.html</id>
-    <published>2020-10-09T08:00:51.000Z</published>
-    <updated>2020-10-09T11:45:35.310Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>有时候简单的几句话就能引起心灵的共鸣。</p><a id="more"></a><ol><li>我们在做选择的时候都不知道将来会是什么样子的，但是放心，等将来的某一天，你再回过去看，所有重要的选择都能连成一条线，前因后果。</li><li>读书，是一种生活方式，一种自我提升的方式，是一个世界的窗户，是一个思想的世界。你要什么，就去挖掘什么。</li></ol><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;有时候简单的几句话就能引起心灵的共鸣。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="随笔" scheme="http://master-miao.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="句子" scheme="http://master-miao.github.io/tags/%E5%8F%A5%E5%AD%90/"/>
     
   </entry>
   
