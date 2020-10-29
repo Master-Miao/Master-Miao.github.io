@@ -81,6 +81,15 @@
 <p>20201017 第八届全国大中城市联合招聘高校毕业生焦作站巡回招聘会</p>
 <p>20201018 圆明园罹难160年</p>
 <p>20201026党的十九届五中全会（4天→29）</p>
+<p>20201029</p>
+<ul>
+<li>从2015年到2019年底，中国居民人均预期寿命从76.3岁提高到77.3岁</li>
+<li>燕京啤酒行情疲软</li>
+<li>央行发布的《中国人民银行金融消费者权益保护实施办法》自2020年11月1日起施行：支付机构不得收集与业务无关的消费者金融信息</li>
+<li>南京：生活垃圾强制分类11月1日正式施行</li>
+<li>美东时间周三，美国三大股指集体大跌，跌幅均超3%，道指重挫逾900点。此外，欧股同样三大指数大幅下跌；国际油价、国际金价纷纷走弱。</li>
+<li>香飘飘成立15年卖出奶茶超过120亿杯</li>
+</ul>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>随笔</category>
@@ -968,6 +977,20 @@
       </categories>
       <tags>
         <tag>成长</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关评论功能了</title>
+    <url>/post/33e1d712.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>公网备案的相关要求，类别为交互式的网站，上面的评论系统必须具有<strong>先审核后显示</strong>的功能。</p>
+<p>近期也不打算再把精力过多花在这上面，目前界面我也很喜欢，能记录内容即可，把Valine这个评论插件关了。(有可以审核的评论插件NeoValine)</p>
+<p>渣浪应该也有评论审核功能吧，但上面每天那么多小广告，谁担责任，过段时间学一下法律知识，继续充电……</p>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>valine</tag>
       </tags>
   </entry>
   <entry>
