@@ -6,7 +6,7 @@
   <link href="http://master-miao.github.io/atom.xml" rel="self"/>
   
   <link href="http://master-miao.github.io/"/>
-  <updated>2020-10-29T02:15:21.605Z</updated>
+  <updated>2020-10-29T02:25:37.067Z</updated>
   <id>http://master-miao.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://master-miao.github.io/post/33e1d712.html"/>
     <id>http://master-miao.github.io/post/33e1d712.html</id>
     <published>2020-10-29T01:47:37.000Z</published>
-    <updated>2020-10-29T02:15:21.605Z</updated>
+    <updated>2020-10-29T02:25:37.067Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>公网备案的相关要求，类别为交互式的网站，上面的评论系统必须具有<strong>先审核后显示</strong>的功能。</p><p>近期也不打算再把精力过多花在这上面，目前界面我也很喜欢，能记录内容即可，把Valine这个评论插件关了。(有可以审核的评论插件NeoValine)</p><p>渣浪应该也有评论审核功能吧，但上面每天那么多小广告，谁担责任，过段时间学一下法律知识，继续充电……</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>公网备案的相关要求，类别为交互式的网站，上面的评论系统必须具有<strong>先审核后显示</strong>的功能。</p><p>近期也不打算再把精力过多花在这上面，目前界面我也很喜欢，能记录内容即可，把Valine这个评论插件关了。(有可以审核的评论插件NeoValine)</p><p>渣浪应该也有评论审核功能吧，所以……，过段时间学一下法律知识，继续充电……</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
     
     
       
