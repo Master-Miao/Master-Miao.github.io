@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://master-miao.github.io/post/54e7b9e6.html</loc>
+    
+    <lastmod>2020-10-30</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://master-miao.github.io/post/cfae6052.html</loc>
     
-    <lastmod>2020-10-29</lastmod>
+    <lastmod>2020-10-30</lastmod>
     
   </url>
   
   <url>
     <loc>http://master-miao.github.io/post/fdbb3370.html</loc>
     
-    <lastmod>2020-10-29</lastmod>
+    <lastmod>2020-10-30</lastmod>
     
   </url>
   
@@ -509,6 +516,13 @@
   
   <url>
     <loc>http://master-miao.github.io/tags/%E5%8A%B1%E5%BF%97/</loc>
+    <lastmod>2020-10-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://master-miao.github.io/tags/%E6%84%9F%E6%83%B3/</loc>
     <lastmod>2020-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
