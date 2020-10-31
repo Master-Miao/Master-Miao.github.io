@@ -65,7 +65,8 @@
 <li>Deliver the essay</li>
 </ol>
 <h1 id="Actual-Performance"><a href="#Actual-Performance" class="headerlink" title="Actual Performance"></a>Actual Performance</h1><h2 id="Oct-31-Sat"><a href="#Oct-31-Sat" class="headerlink" title="Oct.31(Sat.)"></a>Oct.31(Sat.)</h2><p> Am</p>
-<p>Time is wasted.</p>
+<p>A lot of time is wasted.</p>
+<p>Just Liulishuo &amp; Oral practice</p>
 <p>PM</p>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
       <categories>
@@ -672,6 +673,43 @@
       </tags>
   </entry>
   <entry>
+    <title>Excel之vlookup函数</title>
+    <url>/post/c554816.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>函数的语法为：<br>VLOOKUP(要找谁,在哪儿找,返回第几列的内容,精确找还是近似找)</p>
+<p>第一参数是要在表格或区域的第一列中查询的值。<br>第二参数是需要查询的单元格区域，这个区域中的首列必须要包含查询值，否则公式将返回错误值。如果查询区域中包含多个符合条件的查询值，VLOOKUP函数只能返回第一个查找到的结果。<br>第三参数用于指定返回查询区域中第几列的值，该参数如果超出待查询区域的总列数，VLOOKUP函数将返回错误值#REF!，如果小于1返回错误值#VALUE!。<br>第四参数决定函数的查找方式，如果为0或FASLE，用精确匹配方式，而且支持无序查找；如果为TRUE或被省略，则使用近似匹配方式，同时要求查询区域的首列按升序排序。</p>
+<h1 id="主要有以下几种作用："><a href="#主要有以下几种作用：" class="headerlink" title="主要有以下几种作用："></a><strong>主要有以下几种作用：</strong></h1><ul>
+<li>常规查询</li>
+<li>带通配符的查询</li>
+<li>近似查询</li>
+<li>逆向查询</li>
+<li>多条件查询</li>
+<li>一对多查询</li>
+<li>按指定次数重复数据</li>
+</ul>
+<p>注：</p>
+<ul>
+<li>VLOOKUP函数第三参数中的列号，不能理解为工作表中实际的列号，而是指定要返回查询区域中第几列的值。</li>
+<li>通配符“*”表示任意多个字符。</li>
+<li>VLOOKUP函数第四参数被省略，在近似匹配模式下返回查询值的精确匹配值或近似匹配值。如果找不到精确匹配值，则返回小于查询值的最大值。</li>
+<li>使用近似匹配时，查询区域的首列必须按升序排序，否则无法得到正确的结果。</li>
+<li>VLOOKUP函数的查询值要求必须位于查询区域中的首列，如果被查找值不在数据表的首列时，需要先将目标数据进行特殊的转换。</li>
+<li>CHOOSE函数第一参数使用常量数组{1,2}，将查询值所在的D2:D11和返回值所在的C2:C11整合成一个新的两列多行的内存数组。</li>
+</ul>
+<h1 id="详细使用教程："><a href="#详细使用教程：" class="headerlink" title="详细使用教程："></a><strong>详细使用教程：</strong></h1><ul>
+<li><a href="http://www.excelhome.net/lesson/article/excel/1872.html">教程1</a></li>
+<li><a href="https://baijiahao.baidu.com/s?id=1603886666150544094&wfr=spider&for=pc">教程2</a></li>
+<li><a href="http://soft.zol.com.cn/jingyan/58820_all.html">教程3</a></li>
+</ul>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>充电</category>
+        <category>Excel</category>
+      </categories>
+      <tags>
+        <tag>vlookup函数</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo-Github搭建博客过程</title>
     <url>/post/e8355efa.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>起初也是心血来潮想弄个博客玩，以前也有过这种想法，于是为了不再拖延，就立马行动起来了。这个博客搭建的磕磕绊绊的，但最后还是弄出来了，很简单，就是很琐碎，花费了七天，当然也是抽空弄得。</p>
@@ -728,43 +766,6 @@
         <tag>Hexo</tag>
         <tag>Github</tag>
         <tag>博客搭建</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Excel之vlookup函数</title>
-    <url>/post/c554816.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>函数的语法为：<br>VLOOKUP(要找谁,在哪儿找,返回第几列的内容,精确找还是近似找)</p>
-<p>第一参数是要在表格或区域的第一列中查询的值。<br>第二参数是需要查询的单元格区域，这个区域中的首列必须要包含查询值，否则公式将返回错误值。如果查询区域中包含多个符合条件的查询值，VLOOKUP函数只能返回第一个查找到的结果。<br>第三参数用于指定返回查询区域中第几列的值，该参数如果超出待查询区域的总列数，VLOOKUP函数将返回错误值#REF!，如果小于1返回错误值#VALUE!。<br>第四参数决定函数的查找方式，如果为0或FASLE，用精确匹配方式，而且支持无序查找；如果为TRUE或被省略，则使用近似匹配方式，同时要求查询区域的首列按升序排序。</p>
-<h1 id="主要有以下几种作用："><a href="#主要有以下几种作用：" class="headerlink" title="主要有以下几种作用："></a><strong>主要有以下几种作用：</strong></h1><ul>
-<li>常规查询</li>
-<li>带通配符的查询</li>
-<li>近似查询</li>
-<li>逆向查询</li>
-<li>多条件查询</li>
-<li>一对多查询</li>
-<li>按指定次数重复数据</li>
-</ul>
-<p>注：</p>
-<ul>
-<li>VLOOKUP函数第三参数中的列号，不能理解为工作表中实际的列号，而是指定要返回查询区域中第几列的值。</li>
-<li>通配符“*”表示任意多个字符。</li>
-<li>VLOOKUP函数第四参数被省略，在近似匹配模式下返回查询值的精确匹配值或近似匹配值。如果找不到精确匹配值，则返回小于查询值的最大值。</li>
-<li>使用近似匹配时，查询区域的首列必须按升序排序，否则无法得到正确的结果。</li>
-<li>VLOOKUP函数的查询值要求必须位于查询区域中的首列，如果被查找值不在数据表的首列时，需要先将目标数据进行特殊的转换。</li>
-<li>CHOOSE函数第一参数使用常量数组{1,2}，将查询值所在的D2:D11和返回值所在的C2:C11整合成一个新的两列多行的内存数组。</li>
-</ul>
-<h1 id="详细使用教程："><a href="#详细使用教程：" class="headerlink" title="详细使用教程："></a><strong>详细使用教程：</strong></h1><ul>
-<li><a href="http://www.excelhome.net/lesson/article/excel/1872.html">教程1</a></li>
-<li><a href="https://baijiahao.baidu.com/s?id=1603886666150544094&wfr=spider&for=pc">教程2</a></li>
-<li><a href="http://soft.zol.com.cn/jingyan/58820_all.html">教程3</a></li>
-</ul>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>充电</category>
-        <category>Excel</category>
-      </categories>
-      <tags>
-        <tag>vlookup函数</tag>
       </tags>
   </entry>
   <entry>
