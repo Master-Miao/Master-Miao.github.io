@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://master-miao.github.io/post/fdbb3370.html</loc>
+    
+    <lastmod>2020-10-31</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://master-miao.github.io/post/484ec75e.html</loc>
     
     <lastmod>2020-10-31</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>http://master-miao.github.io/about/index.html</loc>
-    
-    <lastmod>2020-10-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://master-miao.github.io/post/fdbb3370.html</loc>
     
     <lastmod>2020-10-31</lastmod>
     
@@ -501,13 +501,6 @@
   </url>
   
   <url>
-    <loc>http://master-miao.github.io/tags/%EF%BC%9F/</loc>
-    <lastmod>2020-10-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://master-miao.github.io/tags/TED/</loc>
     <lastmod>2020-10-31</lastmod>
     <changefreq>daily</changefreq>
@@ -683,6 +676,13 @@
   </url>
   
   <url>
+    <loc>http://master-miao.github.io/tags/%EF%BC%9F/</loc>
+    <lastmod>2020-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://master-miao.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2020-10-31</lastmod>
     <changefreq>daily</changefreq>
@@ -769,14 +769,14 @@
   </url>
   
   <url>
-    <loc>http://master-miao.github.io/categories/%E5%85%85%E7%94%B5/%E4%BC%9A%E8%AE%AE/</loc>
+    <loc>http://master-miao.github.io/categories/%E5%85%85%E7%94%B5/%E8%8B%B1%E8%AF%AD/</loc>
     <lastmod>2020-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://master-miao.github.io/categories/%E5%85%85%E7%94%B5/%E8%8B%B1%E8%AF%AD/</loc>
+    <loc>http://master-miao.github.io/categories/%E5%85%85%E7%94%B5/%E4%BC%9A%E8%AE%AE/</loc>
     <lastmod>2020-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
