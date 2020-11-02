@@ -578,6 +578,13 @@
   </url>
   
   <url>
+    <loc>http://master-miao.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
+    <lastmod>2020-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://master-miao.github.io/tags/%E6%B3%95%E5%8C%BB/</loc>
     <lastmod>2020-11-02</lastmod>
     <changefreq>daily</changefreq>
@@ -586,13 +593,6 @@
   
   <url>
     <loc>http://master-miao.github.io/tags/%E9%87%8D%E5%8F%A3%E5%91%B3/</loc>
-    <lastmod>2020-11-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://master-miao.github.io/tags/%E7%A7%91%E6%99%AE/</loc>
     <lastmod>2020-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -711,14 +711,14 @@
   </url>
   
   <url>
-    <loc>http://master-miao.github.io/tags/%E9%92%A2%E4%B9%8B%E7%82%BC%E9%87%91%E6%9C%AF%E5%B8%88/</loc>
+    <loc>http://master-miao.github.io/tags/%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2020-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://master-miao.github.io/tags/%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://master-miao.github.io/tags/%E9%92%A2%E4%B9%8B%E7%82%BC%E9%87%91%E6%9C%AF%E5%B8%88/</loc>
     <lastmod>2020-11-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
