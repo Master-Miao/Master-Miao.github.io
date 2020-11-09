@@ -6,7 +6,7 @@
   <link href="http://tihabook.github.io/atom.xml" rel="self"/>
   
   <link href="http://tihabook.github.io/"/>
-  <updated>2020-11-08T04:02:56.264Z</updated>
+  <updated>2020-11-09T09:41:34.349Z</updated>
   <id>http://tihabook.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>会后反思（20201109）</title>
+    <link href="http://tihabook.github.io/post/8446a93a.html"/>
+    <id>http://tihabook.github.io/post/8446a93a.html</id>
+    <published>2020-11-09T09:23:41.000Z</published>
+    <updated>2020-11-09T09:41:34.349Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>今天会上作了汇报，感觉有点心虚，PPT上假设部分没做好，别人都把理论基础写的很丰满，然后引出假设，我直愣愣把假设放在模型下面，除了前面几个对定义的解释，没有对这些假设的理论基础做出陈述，讲着讲着就不自然了，老师点评的时候，也点出来了，“你这还没有上升到理论的高度，再多看看文献”，然后问了几个不疼不痒的问题。</p><p>又一次受到打击是看到清华大学、南开大学、中国人民大学、武汉大学、犹他大学的博士生、硕士生用英文流利的汇报，中英文毫无障碍的切换，我我觉得自己差劲不是没有道理的，六级还没过，三天打鱼两天嗮网的学英语，我有些质疑自己，我以前的时间都用来干嘛了，为什么别人这么优秀自己这么差劲，我每天都是虚度的么？虽然有时候感觉写论文很简单，但是自从第一篇小论文投递接收以后，就提不起劲去写其他的了，我可能真的不适合学术圈，没有发自内心的想去写论文，想去为之努力。</p><p>过两天去找导师聊一下，看看能不能让我重新提起斗志，目前自律能力和自制力不足以让我专心去写论文，有些迷茫，路在何方？</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="http://tihabook.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="反思" scheme="http://tihabook.github.io/tags/%E5%8F%8D%E6%80%9D/"/>
+    
+  </entry>
   
   <entry>
     <title>心有些乱</title>
@@ -476,32 +500,6 @@
     
     
     <category term="励志" scheme="http://tihabook.github.io/tags/%E5%8A%B1%E5%BF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>大数据行业评价方法和指标</title>
-    <link href="http://tihabook.github.io/post/f2fa1e8d.html"/>
-    <id>http://tihabook.github.io/post/f2fa1e8d.html</id>
-    <published>2020-10-16T14:02:06.000Z</published>
-    <updated>2020-10-29T02:21:26.261Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>P6数据处理方法。</p><p>134个城市，5个一级指标、13个二级指标、22个三级指标。</p><p>数据来源：北京大数据研究院的大数据企业库、北大法宝的政策数据库以及政府公开信息。</p><p>北上广深杭大数据产业发展第一梯队，郑州在第三梯队。</p> <div align="center"><img src= "/img/loading.gif" data-lazy-src="/post/f2fa1e8d/02.png" class title="加载中&gt;&gt;&gt;请刷新">      </div> <div align="center"><img src= "/img/loading.gif" data-lazy-src="/post/f2fa1e8d/01.png" class title="加载中&gt;&gt;&gt;请刷新">      </div> <div align="center"><img src= "/img/loading.gif" data-lazy-src="/post/f2fa1e8d/03.png" class title="加载中&gt;&gt;&gt;请刷新">      </div><p>主要还是沿海区域发展好，内陆川渝地区尚可。</p><p>“政、产、学、研、用”协同创新模式。</p><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="充电" scheme="http://tihabook.github.io/categories/%E5%85%85%E7%94%B5/"/>
-    
-    <category term="行业报告" scheme="http://tihabook.github.io/categories/%E5%85%85%E7%94%B5/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A/"/>
-    
-    
-    <category term="行业报告" scheme="http://tihabook.github.io/tags/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A/"/>
     
   </entry>
   
