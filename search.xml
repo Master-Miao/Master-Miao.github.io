@@ -187,6 +187,7 @@
 <hr>
 <p>插入图片，要在<code>_posts</code>文件夹内生成相应文章名的文件夹，配置过可自动生成，把图片放里面就行，可以吧图片代码放在居中代码里。</p>
 <p><code>&#123;% asset_img 图片名称.jpg 加载不出来显示的文字 %&#125;</code></p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/034c281e9a704ffe2c3c1d9.jpg" alt="图片"></p>
 <hr>
 <p>右对齐</p>
 <p> <code>&lt;p align=&quot;right&quot;&gt;内容&lt;/p&gt;</code>           </p>
@@ -3036,6 +3037,40 @@
     <title>knowledge understanding</title>
     <url>/post/1060dd5d.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>现在我对专业、课程的理解发生了些改变，不再认为你学了市场营销以后就要干营销或者与营销相关的事情，你上过的课程和掌握的知识就像是拼图板块，未来很多工作是需要各个板块共同承担的，他们是支撑你未来职业框架的基础，也是安身立命的本钱，深刻理解课程内容，能转换成自己的理解表述出来，或是独立进行实际操作，这样才是有用的知识。学完就忘、考完就忘实属不应该，一方面是自身不重视，另一方面是教育制度中的考试这是对记忆知识的考核，不是一个进行阶梯式、深层次的考核，也没有一个中长期的硬性规定，也许有这么一个规定会遭受很多人吐槽，但也是深化知识理解的办法之一。</p>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Year end summary and New Year message</title>
+    <url>/post/aa1559f2.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>去年，2020年，一个出乎意料地开始，新冠状病毒开始在我们的国家、我们的城市蔓延，那时候我刚到老家没几天，还沉浸在回家的喜悦中，看着爷爷奶奶在家里给我们做好吃的，包饺子、做红烧肉，那时甚至没想到疫情会持续这么久，给我们的生活造成如此大的改变。</p>
+<p>2020年1月13日16点10分，我正式到家，开始过研究生阶段比较无忧虑的假期，还去看了宠爱，电影院海报上唐人街探案3即将上映。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/034c281e9a704ff4ab459a7ce2c3c1d9.jpg" alt="图片"></p>
+<p>2020年1月20日7点18分40秒，我们开始回老家了，那时候还没意识到一场旷日持久的“战疫”即将开始。回家先去我小舅、大舅、我姨家转了一下，然后去参加一场婚礼，吃了一顿喜酒，晚上在我表哥家吃火锅，一切都让人很开心。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/f8a3334d08244dd098f13cc61bf5f683.jpg" alt="图片"></p>
+<p>但就在第二天，2020年1月21日，新冠状病毒闯入人们的视野中，人心惶惶。但我最初是被它最开始的名字迷惑了——“新型肺炎”，平时听到肺炎的次数也挺多，有些看重，但并没有特别在意，只是没有吃奶奶做的蒸兔肉。</p>
+<p>往后几天，新冠疫情愈演愈烈，过年走亲戚取消了，甚至在同一个小区的亲戚相互走动也变得格外慎重。25日小区甚至已经贴上了公告，进出小区要做好登记，除了年龄性别外，还要记录详细住址、外出时间、外出地点、体温、返回时间，小区行动格外迅速，进入了防护状态。学校也开始线上监察，每天体温提交，对学生状态进行汇总。一切都在国家一层一层的安排下有序进行，现在再回顾这一切，真的感觉到国家力量的伟大。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/278fd41f5f234af6b0ad4cf7a13f8163.jpg" alt="图片"></p>
+<p>2020年1月29日15点22分，回到了郑州。路上见到了很多身穿白色隔离服的防疫人员在对进入郑州的车辆进行安全检查，测量体温已成了这段时间的常态，无论是进出小区、超市、饭店，都要进行基本的消毒、量体温，虽然麻烦，但也感到安全。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/3c916771fd6d4a4b80cd8fc2c4d676a7.jpg" alt="图片"></p>
+<p>2020年2月5日，下起了第一场雪，但这并没有将过去十几天的不安与惶恐淹没，只是带来了些许安慰，一些都会过去的。</p>
+<p>在小区锻炼的时候发现，短短几天，为了防控疫情发布的通告已经贴满了旁边的大门，又一次意识到疫情的严重。</p>
+<p>2月份过完，实在压抑不住内心的苦闷，便买了些书来看，《小窗幽记》、《乌合之众》、《黑羊效应》、《天生变态狂》等，3月份好好看了些书，补充了精神上的空虚。</p>
+<p>2020年3月29日，回老家搬家，乔迁之日，没呆两天就又回郑州了。</p>
+<p>2020年4月3日18点，疫情以来第一次自己一个人逛超市，今天郑州发放了消费券，抢到了也是很开心呢。</p>
+<p>2020年6月12日14点29分，第一次逛宜家。</p>
+<p>2020年6月14日13点30分，提前让爸妈买了新鲜牛肉，准备做些牛肉条带回学校给人吃，很成功，吃着不错。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/0e76dda15c264d25867ccdf78eb673cc.jpg" alt="图片"></p>
+<p>2020年6月15日18点35分，到达学校门口，安全返校。</p>
+<p>2020年7月4日晚上的一场大雨，我太谢谢它了。</p>
+<p>2020年8月18日晚上，第一次去吃海底捞，服务确实不错。</p>
+<p>9月份，学校恢复了往日的生气，看着舒服多了。</p>
+<p>国庆节和爸妈去日照玩，海鲜又吃了不少，加上啤酒，我感觉我要痛风了。</p>
+<p>10月底，总算是把自己的第一个博客安稳运行了。</p>
+<p>去年，因为疫情发生了很多不幸，也改变了我们的日常生活方式，但也感谢疫情让我在学校安稳了三个月，学校无人，但我也不孤独。那一年在家人的保护下，我没有去经历社会的毒打，宅是我那半年的主调。我也知道赚钱不易，开始理财，虽然收获不多，但以后会更好的。我对未来也更加期望，也更加坚定自己的内心。我寻求改变，尝试不一样的生活方式，期许更好的自己。</p>
+<p>今年，2021年，我会更好的。我也希望家人、周围的同学、朋友有一个开心的一年。也希望以后与那个她携手共赴未来。</p>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>随笔</category>
