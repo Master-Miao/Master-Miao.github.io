@@ -167,6 +167,49 @@
       </tags>
   </entry>
   <entry>
+    <title>Paper-2020-9-16</title>
+    <url>/post/7f0709f7.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
+<div align="center">大数据行为研究趋势：一个“时空关”的视角</div>
+
+<div align="center">贾建民，耿维，徐戈，郝辽钢，贾轼</div>
+
+<div align="center">DOI：10.19744/j.cnki.11-1235/f.2020.0024 </div>
+</blockquote>
+<div align="center">《管理世界》</div>
+
+<h1 id="研究意义"><a href="#研究意义" class="headerlink" title="研究意义"></a>研究意义</h1><p>基于城市公交刷卡数据、滴滴订单数据、铁路客运数据、移动通讯数据等，从“时空关”的视角，研究了人们流动的时空关系和流动行为及其对环境的影响、流动行为的社会关联特征和社会网络对流动性的影响、社会网络的嵌入性和进化机制及对应急通讯的影响以及社会网络对利他行为的影响。</p>
+<h1 id="研究方法"><a href="#研究方法" class="headerlink" title="研究方法"></a>研究方法</h1><p>双重差分方法</p>
+<h1 id="论文摘要"><a href="#论文摘要" class="headerlink" title="论文摘要"></a>论文摘要</h1><p>本文从时间、空间、关联（Time-Space-Connections）3 个维度，即“时空关”视角，聚焦人们的流动性和关联性以及两者之间的关系。</p>
+<div align="center">    
+
+</div>
+
+
+
+
+<ol>
+<li>在移动互联网、社交网络、物联网等新兴信息技术的支持下，人们的个体行为与组织行为均呈现出鲜明的网络化特征。</li>
+<li>流动性，即人们在空间和时间上的位移，是人类生活与工作的必要条件，并影响着人们的各种行为；而关联性，即人与人之间通过血缘、婚姻、工作、同学以及朋友等各种关系相连接，描绘出人类社会的结构特征。</li>
+<li>“时空关”决定或影响着人们的各种行为，从人们的流动行为和社会关联角度去分析交通拥堵、城市规划、公共政策、应急管理、病菌传播等问题，可以获得更多的洞察。</li>
+<li>“六度分隔”是社会网络领域早期最重要的猜想：世界上任何两个人都可以通过一系列彼此认识的人（5个人6条边）连接起来，即所谓的“小世界”现象。</li>
+<li>社会网络节点之间的连接强度（联系的频繁程度）同样具有幂律分布的特征，即每个节点除了少数的强关系，其余大部分都是弱关系。</li>
+<li>Onnela 等（2007）应用手机通讯数据研究了关系强度与网络局部结构之间的耦合关系，发现如果去掉强关系，社会网络的结构依然稳健；但如果把弱关系去掉，整个网络就会崩溃。</li>
+<li>Aral 和 Walker（2014）在 Facebook 平台上采用大规模随机实验来研究关系强度和各种网络结构嵌入对朋友之间产品采纳的社会影响力，发现结构嵌入起着重要作用。</li>
+<li>Aral 和 Walker（2012）基于 130 万 Facebook 用户开展了有关产品采用的随机实验，发现影响力和易感性这两者往往不能兼得，即具有较强影响力的人不易受他人影响，而易受影响的人往往又缺少影响力。另外，他们的研究还显示，年轻人比年长的人更易受他人影响；男性的影响力比女性高 49%，但女性对男性的影响力比对同性的影响力高 46%；已婚人士受他人影响的程度最低；同龄人间的影响力最大（高出基准线 97%）。</li>
+<li>Ren 等 （2019）从另外一个角度研究显示，通过移除社会网络中一些节点可以有效地摧毁网络的功能，这在控制腐败、犯罪、疫情、谣言传播等领域有广泛的应用价值。</li>
+<li>城市交通拥堵和环境污染是我国政府和公众近年来最为关注的两大议题。从人们流动行为的角度来研究城市交通拥堵与空气污染之间的关系，是一个全新的研究课题。</li>
+</ol>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>充电</category>
+        <category>文献</category>
+      </categories>
+      <tags>
+        <tag>大数据</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>文章发布与同步</title>
     <url>/post/7a850dae.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>主要把刚开始写博客需要用的一些简单代码放在这里，方便使用，我用的是Typora，界面简洁，很好操作。（备注：下图。今天本科生开学典礼，疫情原因，各学院分别进行，没有像往年一样统一进行）</p>
@@ -1783,6 +1826,20 @@
       </tags>
   </entry>
   <entry>
+    <title>How To Avoid Being A Bore</title>
+    <url>/post/5040e3ae.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>It can at points be hard to tell whether what we are saying is really of any interest to those we are addressing. Few people - other than our partner in a bad mood or our adolescent child - will ever directly cut us short and announce that they find us dull. It is as a result all too easy to develop an impression of our own compelling nature. If we were to ask our interlocutor, Am I boring you? We can be certain that  to answer we should never receive is: Well, since you ask, yes you are rather. If we choose to wait until people fall asleep while we’re recounting an anecdote or check their phone as we get to the punchline of our joke it will be too late. Our reputation as a  windbag will long ago have been sealed. Fortunately, most of what people need to tell us does not have to be directly stated the evolution of a civilisation can be measured by the scope of its dictionary of unsaid signals. The clue to another’s interest lies not in their overt declarations, but in their degree of responsiveness to our words. We can gauge interest by studying how closely and logically another’s questions follow on from our statements, how fast their replies come, how invested they seem in their emphases whether their eyes meet ours when we stress a point and the degree of elasticity and benevolence in their smile. To trained observer, an urgent cry “I need to go to bed now” can be communicated by nothing more brutal or direct than a gaze at the overhead smoke alarm that is held a fraction too long or a “That’s Wonderful “ that lacks a minute but critical does of wonder. It is mostly easy enough to note the cues when we ignore them, it isn’t that we aren’t receiving them but that we are somehow opting not to register them and we are not doing so for a poignant reason, because we cannot bear to imagine that we might be boring, because the idea of not belonging sufficiently deeply in another’s life is untenable, because we are unreconciled to the fundamental loneliness of existence and the tragie disjuncture between what we want from others and what they may be prepared to provide. We have grown deaf from the rigidity of our need not from any failure of sensitivity. Somewhere the idea of not pleasing someone conversationally has turned from a risk into a catastrophe that must be manically warded off. We become insistent and wilfully oblivious, we give up seeking to delight and settle instead on the more modest hope of not being actively thrown out. The insult to our self-love that we read into another’s bored reaction feels too great and our resources to deal with it too slim for us to take  in the meaning of the long pauses and wandering eyes. We overlook the cues because what they indicate to our unconscious minds isn’t the relatively innocuous thought that the other wants to go to bed, they become embroiled in a deeper story about our self worth: they become indicators that we are fundamentally displeasing that we deserve our isolation that we are hateful wretches. The best guarantee of not boring others is, therefore, the development of an internal robustness that can allow us to withstand the thought of our tedious aspects. The interesting person can acknowledge that losing someone’s attention is a setback not a sign of damnation. To develop a more benevolent picture of what it means occasionally to bore, it can help to study the responses of parents to their small children for there are no better examples of the easy coexistence of boredom with love. To a parent, their four year old child will be at once the most loveable creature they have ever met, and, by a long way, especially in their conversation the most tedious. Even outside of parenthood, we are all endowed with surprisingly rich capacities to love someone and at the same time to find them extremely wearing. It does not, as the bore mistakenly ends up thinking need to be choice between love or boredom. To skirt the danger of being a full blown bore, we should foster the inner courage to imagine that we might sometimes without anything too awful being meant by this be just such a thing.</p>
+<p><a href="https://open.163.com/newview/movie/free?pid=MEMNT32D7&mid=MEN83BKP8#share-mob">如何避免成为让人感到无聊的人？</a></p>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>充电</category>
+        <category>英语</category>
+      </categories>
+      <tags>
+        <tag>TED</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>英语词根与单词的说文解字</title>
     <url>/post/1744453e.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
@@ -1801,20 +1858,6 @@
       <tags>
         <tag>词汇</tag>
         <tag>ing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>How To Avoid Being A Bore</title>
-    <url>/post/5040e3ae.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>It can at points be hard to tell whether what we are saying is really of any interest to those we are addressing. Few people - other than our partner in a bad mood or our adolescent child - will ever directly cut us short and announce that they find us dull. It is as a result all too easy to develop an impression of our own compelling nature. If we were to ask our interlocutor, Am I boring you? We can be certain that  to answer we should never receive is: Well, since you ask, yes you are rather. If we choose to wait until people fall asleep while we’re recounting an anecdote or check their phone as we get to the punchline of our joke it will be too late. Our reputation as a  windbag will long ago have been sealed. Fortunately, most of what people need to tell us does not have to be directly stated the evolution of a civilisation can be measured by the scope of its dictionary of unsaid signals. The clue to another’s interest lies not in their overt declarations, but in their degree of responsiveness to our words. We can gauge interest by studying how closely and logically another’s questions follow on from our statements, how fast their replies come, how invested they seem in their emphases whether their eyes meet ours when we stress a point and the degree of elasticity and benevolence in their smile. To trained observer, an urgent cry “I need to go to bed now” can be communicated by nothing more brutal or direct than a gaze at the overhead smoke alarm that is held a fraction too long or a “That’s Wonderful “ that lacks a minute but critical does of wonder. It is mostly easy enough to note the cues when we ignore them, it isn’t that we aren’t receiving them but that we are somehow opting not to register them and we are not doing so for a poignant reason, because we cannot bear to imagine that we might be boring, because the idea of not belonging sufficiently deeply in another’s life is untenable, because we are unreconciled to the fundamental loneliness of existence and the tragie disjuncture between what we want from others and what they may be prepared to provide. We have grown deaf from the rigidity of our need not from any failure of sensitivity. Somewhere the idea of not pleasing someone conversationally has turned from a risk into a catastrophe that must be manically warded off. We become insistent and wilfully oblivious, we give up seeking to delight and settle instead on the more modest hope of not being actively thrown out. The insult to our self-love that we read into another’s bored reaction feels too great and our resources to deal with it too slim for us to take  in the meaning of the long pauses and wandering eyes. We overlook the cues because what they indicate to our unconscious minds isn’t the relatively innocuous thought that the other wants to go to bed, they become embroiled in a deeper story about our self worth: they become indicators that we are fundamentally displeasing that we deserve our isolation that we are hateful wretches. The best guarantee of not boring others is, therefore, the development of an internal robustness that can allow us to withstand the thought of our tedious aspects. The interesting person can acknowledge that losing someone’s attention is a setback not a sign of damnation. To develop a more benevolent picture of what it means occasionally to bore, it can help to study the responses of parents to their small children for there are no better examples of the easy coexistence of boredom with love. To a parent, their four year old child will be at once the most loveable creature they have ever met, and, by a long way, especially in their conversation the most tedious. Even outside of parenthood, we are all endowed with surprisingly rich capacities to love someone and at the same time to find them extremely wearing. It does not, as the bore mistakenly ends up thinking need to be choice between love or boredom. To skirt the danger of being a full blown bore, we should foster the inner courage to imagine that we might sometimes without anything too awful being meant by this be just such a thing.</p>
-<p><a href="https://open.163.com/newview/movie/free?pid=MEMNT32D7&mid=MEN83BKP8#share-mob">如何避免成为让人感到无聊的人？</a></p>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>充电</category>
-        <category>英语</category>
-      </categories>
-      <tags>
-        <tag>TED</tag>
       </tags>
   </entry>
   <entry>
@@ -3507,49 +3550,6 @@
       </categories>
   </entry>
   <entry>
-    <title>Paper-2020-9-16</title>
-    <url>/post/7f0709f7.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
-<div align="center">大数据行为研究趋势：一个“时空关”的视角</div>
-
-<div align="center">贾建民，耿维，徐戈，郝辽钢，贾轼</div>
-
-<div align="center">DOI：10.19744/j.cnki.11-1235/f.2020.0024 </div>
-</blockquote>
-<div align="center">《管理世界》</div>
-
-<h1 id="研究意义"><a href="#研究意义" class="headerlink" title="研究意义"></a>研究意义</h1><p>基于城市公交刷卡数据、滴滴订单数据、铁路客运数据、移动通讯数据等，从“时空关”的视角，研究了人们流动的时空关系和流动行为及其对环境的影响、流动行为的社会关联特征和社会网络对流动性的影响、社会网络的嵌入性和进化机制及对应急通讯的影响以及社会网络对利他行为的影响。</p>
-<h1 id="研究方法"><a href="#研究方法" class="headerlink" title="研究方法"></a>研究方法</h1><p>双重差分方法</p>
-<h1 id="论文摘要"><a href="#论文摘要" class="headerlink" title="论文摘要"></a>论文摘要</h1><p>本文从时间、空间、关联（Time-Space-Connections）3 个维度，即“时空关”视角，聚焦人们的流动性和关联性以及两者之间的关系。</p>
-<div align="center">    
-
-</div>
-
-
-
-
-<ol>
-<li>在移动互联网、社交网络、物联网等新兴信息技术的支持下，人们的个体行为与组织行为均呈现出鲜明的网络化特征。</li>
-<li>流动性，即人们在空间和时间上的位移，是人类生活与工作的必要条件，并影响着人们的各种行为；而关联性，即人与人之间通过血缘、婚姻、工作、同学以及朋友等各种关系相连接，描绘出人类社会的结构特征。</li>
-<li>“时空关”决定或影响着人们的各种行为，从人们的流动行为和社会关联角度去分析交通拥堵、城市规划、公共政策、应急管理、病菌传播等问题，可以获得更多的洞察。</li>
-<li>“六度分隔”是社会网络领域早期最重要的猜想：世界上任何两个人都可以通过一系列彼此认识的人（5个人6条边）连接起来，即所谓的“小世界”现象。</li>
-<li>社会网络节点之间的连接强度（联系的频繁程度）同样具有幂律分布的特征，即每个节点除了少数的强关系，其余大部分都是弱关系。</li>
-<li>Onnela 等（2007）应用手机通讯数据研究了关系强度与网络局部结构之间的耦合关系，发现如果去掉强关系，社会网络的结构依然稳健；但如果把弱关系去掉，整个网络就会崩溃。</li>
-<li>Aral 和 Walker（2014）在 Facebook 平台上采用大规模随机实验来研究关系强度和各种网络结构嵌入对朋友之间产品采纳的社会影响力，发现结构嵌入起着重要作用。</li>
-<li>Aral 和 Walker（2012）基于 130 万 Facebook 用户开展了有关产品采用的随机实验，发现影响力和易感性这两者往往不能兼得，即具有较强影响力的人不易受他人影响，而易受影响的人往往又缺少影响力。另外，他们的研究还显示，年轻人比年长的人更易受他人影响；男性的影响力比女性高 49%，但女性对男性的影响力比对同性的影响力高 46%；已婚人士受他人影响的程度最低；同龄人间的影响力最大（高出基准线 97%）。</li>
-<li>Ren 等 （2019）从另外一个角度研究显示，通过移除社会网络中一些节点可以有效地摧毁网络的功能，这在控制腐败、犯罪、疫情、谣言传播等领域有广泛的应用价值。</li>
-<li>城市交通拥堵和环境污染是我国政府和公众近年来最为关注的两大议题。从人们流动行为的角度来研究城市交通拥堵与空气污染之间的关系，是一个全新的研究课题。</li>
-</ol>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>充电</category>
-        <category>文献</category>
-      </categories>
-      <tags>
-        <tag>大数据</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>想养柯基</title>
     <url>/post/eab0c882.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>很想猫狗双全，之前对猫狗的品种没啥想法，最近在豆瓣上看了一些，发现很喜欢柯基这种小型犬，活泼可爱，很适合在城市养。威尔士柯基犬，好像还很聪明的样子，就决定它了。</p>
@@ -3660,26 +3660,6 @@
       </categories>
   </entry>
   <entry>
-    <title>2021-05-03-关于答辩之后的安排</title>
-    <url>/post/a92d85f4.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>最近看着没什么事情了，但却挺让人心烦，选调生考试分数太低，想明年继续考公务员，最好还是保留着应届生身份，今年先不参加工作好好备考了。</p>
-<p>目前来说要做的事有下面几个：</p>
-<p>1、毕业答辩。这个估计是在五月中下旬进行，也就是我六月以后就自由了，可以不用再考虑学校、导师的事。</p>
-<p>2、毕业旅游。按照最初的设想，先简单设定了四个想去的地方以及大致的时间长度，四川5天、西藏5天、青海湖4天、陕西4天，总共是18天，预计花费不超过8千都可以，时间安排在六月份。</p>
-<p>3、工作与备考的平衡。之前北大纵横那个短期兼职其实可以，还有同学兼职那个店玩游戏也不错，反正先找个不交社保的工作干着，然后一边备考，一直在家备考我自己都受不了。按照往年的考试时间，国考是在11月份，河南省考是在3月份，期间还有其他省的省考，所以备考时间集中在7月份到11月，5个月的时间想来是够了，然后参加各个考试，期间温习巩固。</p>
-<p>4、事业单位。这个先找找看，有喜欢的就去报考，但这个不确定性太强，时间没有固定的，考试范围也不固定。</p>
-<p>还有其他不确定事项：</p>
-<p>1、家人给安排在725所工作的话毕业旅游和备考会受到一些影响，但还在预期中。</p>
-<p>2、5月10号打一次新冠疫苗，第二次在六月份，旅行可能会延后。</p>
-<p>经历过这次选调生考试，其实也对这个考试有了把握，有些题型内容虽然比较碎，但5个月足以掌握，但这次不能只准备笔试，面试也要相应准备好。</p>
-<p>工作不确定，未来未卜的情况下，我是不能去养猫养狗的，我想给它们一个家，而不是随我奔波。</p>
-<p>关于未来，我有过很多设想，但都是基于有个稳定的工作，以此为基础开始延展。郑州的工作机会大多是销售性质，我打心底不喜欢，所以还是有很大可能去北上广深这些一线城市。</p>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
-      <categories>
-        <category>随笔</category>
-      </categories>
-  </entry>
-  <entry>
     <title>Year end summary and New Year message</title>
     <url>/post/aa1559f2.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>去年，2020年，一个出乎意料地开始，新冠状病毒开始在我们的国家、我们的城市蔓延，那时候我刚到老家没几天，还沉浸在回家的喜悦中，看着爷爷奶奶在家里给我们做好吃的，包饺子、做红烧肉，那时甚至没想到疫情会持续这么久，给我们的生活造成如此大的改变。</p>
@@ -3708,6 +3688,72 @@
 <p>10月底，总算是把自己的第一个博客安稳运行了。</p>
 <p>去年，因为疫情发生了很多不幸，也改变了我们的日常生活方式，但也感谢疫情让我在学校安稳了三个月，学校无人，但我也不孤独。那一年在家人的保护下，我没有去经历社会的毒打，宅是我那半年的主调。我也知道赚钱不易，开始理财，虽然收获不多，但以后会更好的。我对未来也更加期望，也更加坚定自己的内心。我寻求改变，尝试不一样的生活方式，期许更好的自己。</p>
 <p>今年，2021年，我会更好的。我也希望家人、周围的同学、朋友有一个开心的一年。也希望以后与那个她携手共赴未来。</p>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2021-05-03-关于答辩之后的安排</title>
+    <url>/post/a92d85f4.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>最近看着没什么事情了，但却挺让人心烦，选调生考试分数太低，想明年继续考公务员，最好还是保留着应届生身份，今年先不参加工作好好备考了。</p>
+<p>目前来说要做的事有下面几个：</p>
+<p>1、毕业答辩。这个估计是在五月中下旬进行，也就是我六月以后就自由了，可以不用再考虑学校、导师的事。</p>
+<p>2、毕业旅游。按照最初的设想，先简单设定了四个想去的地方以及大致的时间长度，四川5天、西藏5天、青海湖4天、陕西4天，总共是18天，预计花费不超过8千都可以，时间安排在六月份。</p>
+<p>3、工作与备考的平衡。之前北大纵横那个短期兼职其实可以，还有同学兼职那个店玩游戏也不错，反正先找个不交社保的工作干着，然后一边备考，一直在家备考我自己都受不了。按照往年的考试时间，国考是在11月份，河南省考是在3月份，期间还有其他省的省考，所以备考时间集中在7月份到11月，5个月的时间想来是够了，然后参加各个考试，期间温习巩固。</p>
+<p>4、事业单位。这个先找找看，有喜欢的就去报考，但这个不确定性太强，时间没有固定的，考试范围也不固定。</p>
+<p>还有其他不确定事项：</p>
+<p>1、家人给安排在725所工作的话毕业旅游和备考会受到一些影响，但还在预期中。</p>
+<p>2、5月10号打一次新冠疫苗，第二次在六月份，旅行可能会延后。</p>
+<p>经历过这次选调生考试，其实也对这个考试有了把握，有些题型内容虽然比较碎，但5个月足以掌握，但这次不能只准备笔试，面试也要相应准备好。</p>
+<p>工作不确定，未来未卜的情况下，我是不能去养猫养狗的，我想给它们一个家，而不是随我奔波。</p>
+<p>关于未来，我有过很多设想，但都是基于有个稳定的工作，以此为基础开始延展。郑州的工作机会大多是销售性质，我打心底不喜欢，所以还是有很大可能去北上广深这些一线城市。</p>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>2021-05-07-毕业游攻略</title>
+    <url>/post/95564f37.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/a0ddf0825a3941c29c3be6b4c0d26b74.png" alt="图片"></p>
+<p>按照地图最近的路线来，先去青海湖，然后四川，然后西藏</p>
+<hr>
+<p>1.郑州→西宁（机票价格在430-580之间）</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/d84a4e2af70344b5b8fc1a830ceb825c.png" alt="图片"></p>
+<p>2.西宁→青海湖 （4-5天）住宿可能会贵一点，就按照1500,总花费在2K左右</p>
+<p>建国路的西宁长途汽车站（老火车站，1路公交终点站）早上7:30第一班，下午17:00最后一班，中间间隔30分钟一趟，票价20元。</p>
+<p>day1（100公里）：前一晚先夜宿西海镇再出发——午饭在过沙海后的一个小村镇——夜宿江西沟乡</p>
+<p>day2（50公里+盐湖，门票75，单程小火车50）：江西沟乡出发——午饭在黑马河乡——下午去查卡盐湖——夜宿黑马河乡</p>
+<p>day3（120公里）：黑马河乡看日出后出发——午饭在鸟岛附近——夜宿刚察县</p>
+<p>day4（90公里）：刚察县出发——午饭在甘子河乡——当天回到西海镇，顺利的话也可直达西宁。</p>
+<p>3.青海湖→西宁，车票20</p>
+<p>4.西宁→重庆（价格285）</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/5fb244a9b6554a75b93d7657aa069126.png" alt="图片"></p>
+<p>5.重庆→成都（价格47）</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/3fabf31a7839445097c58a0b5e19319b.png" alt="图片"></p>
+<p>6.成都大熊猫基地（门票55，观光车10）</p>
+<p>火车北站乘坐地铁7号线在“驷马桥”站下车转地铁3号线至“熊猫大道”站下车，出地铁（A出口）后乘坐公交D025路/198路/198A路至“熊猫基地”站即可。全程约10.5公里，耗时约48分钟。</p>
+<p>入园时间：7：30 - 17：00</p>
+<p>景区地址：中国四川省成都外北熊猫大道1375号</p>
+<p>路线：售票处→天鹅湖→大熊猫魅力剧场→小熊猫活动场→大熊猫太阳产房→大熊猫2号别墅→大熊猫月亮产房→大熊猫1号别墅（终点站，此处游客只下车，不上车）→大熊猫月亮产房→大熊猫2号别墅→大熊猫太阳产房→小熊猫活动场→大熊猫魅力剧场→大熊猫14号别墅→售票处。</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/0781809bbe9e438daf80bbb514f60646.jpg" alt="图片"></p>
+<p>7.成都→九寨沟（机票1600左右，还是坐车划算点一百多）</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://static01.imgkr.com/temp/0a9793d1490b47ef9ef1e644ffed228b.png" alt="图片"></p>
+<p>成都（茶店子/新南门）——汶川——茂县——松潘——九寨沟，成都方向—路程440公里，都是早上7:30 7:45二班从新南门车站出发，大约晚上8点到达九寨沟。新南门－九寨沟车票价格￥121</p>
+<p>在成都报个去九寨沟的团方便些。</p>
+<p>8.九寨沟→成都￥121</p>
+<p>9.成都→五明佛学院（车票60左右，早上七点发车）</p>
+<p>10.五明佛学院→天葬台（20左右）</p>
+<p>11.天葬台→色达</p>
+<p>12.色达→稻城亚丁</p>
+<p>色达班车到康定，康定班车到稻城，两天</p>
+<p>稻城亚丁门票加大巴266</p>
+<p>13.稻城→康定→成都</p>
+<p>14.成都→拉萨</p>
+<p>15.拉萨→郑州</p>
+<p>总的算下来保守估计最少最少要5k，预计在8k，25天左右。过几天再把路线详细规划一下。</p>
+<hr>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kity@2.0.4/dist/kity.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text/javascript" src="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/hexo-simple-mindmap@0.2.0/dist/mindmap.min.css">]]></content>
       <categories>
         <category>随笔</category>
